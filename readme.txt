@@ -1,5 +1,4 @@
 Git is a version control system.
 Git is free software.
 
-git is very different.
-hello 
+Creating a new branch is quick.
